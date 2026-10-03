@@ -1,0 +1,11 @@
+Model Information:
+* title:	IPhone 15 Pro Max Made In Blender
+* source:	https://sketchfab.com/3d-models/iphone-15-pro-max-made-in-blender-616945ef6bef415889c8748918700bc7
+* author:	PolygonMBW (https://sketchfab.com/PolygonMBW)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IPhone 15 Pro Max Made In Blender" (https://sketchfab.com/3d-models/iphone-15-pro-max-made-in-blender-616945ef6bef415889c8748918700bc7) by PolygonMBW (https://sketchfab.com/PolygonMBW) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
